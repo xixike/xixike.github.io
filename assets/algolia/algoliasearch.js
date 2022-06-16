@@ -98,11 +98,11 @@ module.exports = loadV2;
 
 function loadV2(buildName) {
   var loadScript = require(1);
-  var v2ScriptUrl = '//fastly.jsdelivr.net/algoliasearch/2/' + buildName + '.min.js';
+  var v2ScriptUrl = '//cdn.jsdelivr.net/algoliasearch/2/' + buildName + '.min.js';
 
   var message = '-- AlgoliaSearch `latest` warning --\n' +
     'Warning, you are using the `latest` version string from jsDelivr to load the AlgoliaSearch library.\n' +
-    'Using `latest` is no more recommended, you should load //fastly.jsdelivr.net/algoliasearch/2/algoliasearch.min.js\n\n' +
+    'Using `latest` is no more recommended, you should load //cdn.jsdelivr.net/algoliasearch/2/algoliasearch.min.js\n\n' +
     'Also, we updated the AlgoliaSearch JavaScript client to V3. If you want to upgrade,\n' +
     'please read our migration guide at https://github.com/algolia/algoliasearch-client-js/wiki/Migration-guide-from-2.x.x-to-3.x.x\n' +
     '-- /AlgoliaSearch  `latest` warning --';
