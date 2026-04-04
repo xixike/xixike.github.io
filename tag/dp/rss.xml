@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>xixike • Posts by &#34;dp&#34; tag</title>
-        <link>http://xixike.github.io</link>
+        <link>https://xixike.github.io</link>
         <description>或许是不知梦的缘故，流离之人追逐幻影。</description>
         <language>zh-CN</language>
         <pubDate>Wed, 22 Jun 2022 17:00:00 +0800</pubDate>
@@ -46,9 +46,9 @@
         <category>后缀自动机(SAM)</category>
         <category>基础</category>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/P5336%20[THUSC2016]%E6%88%90%E7%BB%A9%E5%8D%95/</guid>
+            <guid isPermalink="true">https://xixike.github.io/P5336%20[THUSC2016]%E6%88%90%E7%BB%A9%E5%8D%95/</guid>
             <title>P5336 [THUSC2016]成绩单 题解</title>
-            <link>http://xixike.github.io/P5336%20[THUSC2016]%E6%88%90%E7%BB%A9%E5%8D%95/</link>
+            <link>https://xixike.github.io/P5336%20[THUSC2016]%E6%88%90%E7%BB%A9%E5%8D%95/</link>
             <category>dp</category>
             <category>区间dp</category>
             <pubDate>Wed, 22 Jun 2022 17:00:00 +0800</pubDate>
@@ -79,9 +79,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FWQS%E4%BA%8C%E5%88%86/</guid>
+            <guid isPermalink="true">https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FWQS%E4%BA%8C%E5%88%86/</guid>
             <title>『学习笔记』WQS二分</title>
-            <link>http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FWQS%E4%BA%8C%E5%88%86/</link>
+            <link>https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FWQS%E4%BA%8C%E5%88%86/</link>
             <category>dp</category>
             <category>树形dp</category>
             <category>分治</category>
@@ -135,9 +135,9 @@ g(k) = f(x) - kx
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/20220518/</guid>
+            <guid isPermalink="true">https://xixike.github.io/20220518/</guid>
             <title>20220518</title>
-            <link>http://xixike.github.io/20220518/</link>
+            <link>https://xixike.github.io/20220518/</link>
             <category>dp</category>
             <pubDate>Wed, 18 May 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;dp，树形dp + 换根，背包&lt;/strong&gt;&lt;/p&gt;
@@ -184,9 +184,9 @@ dp_{i, j, 1} = \max\{dp_{i - 1, j - 1, 0}, dp_{i - 1, j - 1, 1} + w_i \}
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/dp%20%E9%A2%98%E7%9B%AE%E9%80%89%E5%81%9A/</guid>
+            <guid isPermalink="true">https://xixike.github.io/dp%20%E9%A2%98%E7%9B%AE%E9%80%89%E5%81%9A/</guid>
             <title>dp 题目选做</title>
-            <link>http://xixike.github.io/dp%20%E9%A2%98%E7%9B%AE%E9%80%89%E5%81%9A/</link>
+            <link>https://xixike.github.io/dp%20%E9%A2%98%E7%9B%AE%E9%80%89%E5%81%9A/</link>
             <category>dp</category>
             <pubDate>Mon, 09 May 2022 18:33:44 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;uva1292-strategic-game&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#uva1292-strategic-game&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vVVZBMTI5Mg==&#34;&gt;UVA1292 Strategic game&lt;/span&gt;&lt;/h2&gt;
@@ -340,9 +340,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/CF1111E%20Tree%20%E9%A2%98%E8%A7%A3/</guid>
+            <guid isPermalink="true">https://xixike.github.io/CF1111E%20Tree%20%E9%A2%98%E8%A7%A3/</guid>
             <title>CF1111E Tree 题解</title>
-            <link>http://xixike.github.io/CF1111E%20Tree%20%E9%A2%98%E8%A7%A3/</link>
+            <link>https://xixike.github.io/CF1111E%20Tree%20%E9%A2%98%E8%A7%A3/</link>
             <category>dp</category>
             <category>树链剖分</category>
             <category>树状数组</category>
@@ -363,9 +363,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/AT1983%20[AGC001E]%20BBQ%20Hard/</guid>
+            <guid isPermalink="true">https://xixike.github.io/AT1983%20[AGC001E]%20BBQ%20Hard/</guid>
             <title>AT1983 [AGC001E] BBQ Hard 题解</title>
-            <link>http://xixike.github.io/AT1983%20[AGC001E]%20BBQ%20Hard/</link>
+            <link>https://xixike.github.io/AT1983%20[AGC001E]%20BBQ%20Hard/</link>
             <category>dp</category>
             <pubDate>Wed, 16 Mar 2022 13:58:38 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
@@ -387,9 +387,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/P6047%20%E4%B8%9D%E4%B9%8B%E5%89%B2/</guid>
+            <guid isPermalink="true">https://xixike.github.io/P6047%20%E4%B8%9D%E4%B9%8B%E5%89%B2/</guid>
             <title>P6047 丝之割 题解</title>
-            <link>http://xixike.github.io/P6047%20%E4%B8%9D%E4%B9%8B%E5%89%B2/</link>
+            <link>https://xixike.github.io/P6047%20%E4%B8%9D%E4%B9%8B%E5%89%B2/</link>
             <category>dp</category>
             <category>斜率优化</category>
             <pubDate>Sun, 06 Mar 2022 12:39:36 +0800</pubDate>
@@ -413,9 +413,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/SP33017%20ADAMOLD%20-%20Ada%20and%20Mold%20%E9%A2%98%E8%A7%A3/</guid>
+            <guid isPermalink="true">https://xixike.github.io/SP33017%20ADAMOLD%20-%20Ada%20and%20Mold%20%E9%A2%98%E8%A7%A3/</guid>
             <title>SP33017 ADAMOLD - Ada and Mold 题解</title>
-            <link>http://xixike.github.io/SP33017%20ADAMOLD%20-%20Ada%20and%20Mold%20%E9%A2%98%E8%A7%A3/</link>
+            <link>https://xixike.github.io/SP33017%20ADAMOLD%20-%20Ada%20and%20Mold%20%E9%A2%98%E8%A7%A3/</link>
             <category>dp</category>
             <category>四边形不等式</category>
             <pubDate>Tue, 01 Mar 2022 22:47:00 +0800</pubDate>
@@ -461,9 +461,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/CF17E%20Palisection%20%E9%A2%98%E8%A7%A3/</guid>
+            <guid isPermalink="true">https://xixike.github.io/CF17E%20Palisection%20%E9%A2%98%E8%A7%A3/</guid>
             <title>CF17E Palisection 题解</title>
-            <link>http://xixike.github.io/CF17E%20Palisection%20%E9%A2%98%E8%A7%A3/</link>
+            <link>https://xixike.github.io/CF17E%20Palisection%20%E9%A2%98%E8%A7%A3/</link>
             <category>dp</category>
             <category>字符串</category>
             <category>manacher</category>
@@ -507,9 +507,9 @@ i - 1\ \ \ \ \sim\ \ \ \ i\ \ \ \ \sim\ \ \ \ i + 1
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/P2167%20[SDOI2009]Bill%E7%9A%84%E6%8C%91%E6%88%98/</guid>
+            <guid isPermalink="true">https://xixike.github.io/P2167%20[SDOI2009]Bill%E7%9A%84%E6%8C%91%E6%88%98/</guid>
             <title>P2167 [SDOI2009]Bill的挑战</title>
-            <link>http://xixike.github.io/P2167%20[SDOI2009]Bill%E7%9A%84%E6%8C%91%E6%88%98/</link>
+            <link>https://xixike.github.io/P2167%20[SDOI2009]Bill%E7%9A%84%E6%8C%91%E6%88%98/</link>
             <category>dp</category>
             <category>状压dp</category>
             <pubDate>Mon, 07 Feb 2022 08:40:36 +0800</pubDate>

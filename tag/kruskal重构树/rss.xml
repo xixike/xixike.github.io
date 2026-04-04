@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>xixike • Posts by &#34;kruskal重构树&#34; tag</title>
-        <link>http://xixike.github.io</link>
+        <link>https://xixike.github.io</link>
         <description>或许是不知梦的缘故，流离之人追逐幻影。</description>
         <language>zh-CN</language>
         <pubDate>Mon, 07 Feb 2022 08:40:44 +0800</pubDate>
@@ -46,9 +46,9 @@
         <category>后缀自动机(SAM)</category>
         <category>基础</category>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/P4768%20[NOI2018]%20%E5%BD%92%E7%A8%8B/</guid>
+            <guid isPermalink="true">https://xixike.github.io/P4768%20[NOI2018]%20%E5%BD%92%E7%A8%8B/</guid>
             <title>P4768 [NOI2018] 归程 题解</title>
-            <link>http://xixike.github.io/P4768%20[NOI2018]%20%E5%BD%92%E7%A8%8B/</link>
+            <link>https://xixike.github.io/P4768%20[NOI2018]%20%E5%BD%92%E7%A8%8B/</link>
             <category>最短路</category>
             <category>Kruskal重构树</category>
             <pubDate>Mon, 07 Feb 2022 08:40:44 +0800</pubDate>

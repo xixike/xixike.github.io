@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://xixike.github.io</id>
+    <id>https://xixike.github.io</id>
     <title>xixike • Posts by &#34;dp&#34; tag</title>
-    <link href="http://xixike.github.io" />
+    <link href="https://xixike.github.io" />
     <updated>2022-06-22T09:00:00.000Z</updated>
     <category term="dp" />
     <category term="矩阵乘法" />
@@ -43,9 +43,9 @@
     <category term="后缀自动机(SAM)" />
     <category term="基础" />
     <entry>
-        <id>http://xixike.github.io/P5336%20[THUSC2016]%E6%88%90%E7%BB%A9%E5%8D%95/</id>
+        <id>https://xixike.github.io/P5336%20[THUSC2016]%E6%88%90%E7%BB%A9%E5%8D%95/</id>
         <title>P5336 [THUSC2016]成绩单 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/P5336%20[THUSC2016]%E6%88%90%E7%BB%A9%E5%8D%95/"/>
+        <link rel="alternate" href="https://xixike.github.io/P5336%20[THUSC2016]%E6%88%90%E7%BB%A9%E5%8D%95/"/>
         <content type="html">&lt;h1 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDUzMzY=&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h1&gt;
@@ -76,9 +76,9 @@
         <updated>2022-06-22T09:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FWQS%E4%BA%8C%E5%88%86/</id>
+        <id>https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FWQS%E4%BA%8C%E5%88%86/</id>
         <title>『学习笔记』WQS二分</title>
-        <link rel="alternate" href="http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FWQS%E4%BA%8C%E5%88%86/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FWQS%E4%BA%8C%E5%88%86/"/>
         <content type="html">&lt;h1 id=&#34;主要思想&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#主要思想&#34;&gt;#&lt;/a&gt; 主要思想&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;WQS二分&lt;/strong&gt;也叫&lt;strong&gt;带权二分&lt;/strong&gt;，主要解决一类凸包上的问题。&lt;/p&gt;
 &lt;p&gt;假设当前你有一个很难计算的凸函数 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;f(x)&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1em;vertical-align:-0.25em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.10764em;&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，此时你要计算一个指定的 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;f(n)&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1em;vertical-align:-0.25em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.10764em;&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，如何快速求出呢？&lt;/p&gt;
@@ -132,9 +132,9 @@ g(k) = f(x) - kx
         <updated>2022-05-31T14:58:02.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/20220518/</id>
+        <id>https://xixike.github.io/20220518/</id>
         <title>20220518</title>
-        <link rel="alternate" href="http://xixike.github.io/20220518/"/>
+        <link rel="alternate" href="https://xixike.github.io/20220518/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;dp，树形dp + 换根，背包&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;a-sp283-naptime-naptime&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-sp283-naptime-naptime&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vU1AyODM=&#34;&gt;A. SP283 NAPTIME - Naptime&lt;/span&gt;&lt;/h2&gt;
@@ -181,9 +181,9 @@ dp_{i, j, 1} = \max\{dp_{i - 1, j - 1, 0}, dp_{i - 1, j - 1, 1} + w_i \}
         <updated>2022-05-17T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/dp%20%E9%A2%98%E7%9B%AE%E9%80%89%E5%81%9A/</id>
+        <id>https://xixike.github.io/dp%20%E9%A2%98%E7%9B%AE%E9%80%89%E5%81%9A/</id>
         <title>dp 题目选做</title>
-        <link rel="alternate" href="http://xixike.github.io/dp%20%E9%A2%98%E7%9B%AE%E9%80%89%E5%81%9A/"/>
+        <link rel="alternate" href="https://xixike.github.io/dp%20%E9%A2%98%E7%9B%AE%E9%80%89%E5%81%9A/"/>
         <content type="html">&lt;h2 id=&#34;uva1292-strategic-game&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#uva1292-strategic-game&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vVVZBMTI5Mg==&#34;&gt;UVA1292 Strategic game&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;树形 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;dp&lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\text{dp}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8889em;vertical-align:-0.1944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord&#34;&gt;dp&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 板子题。&lt;/p&gt;
 &lt;p&gt;直接设 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;/&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;f_{x, 0/1}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.0496em;vertical-align:-0.3552em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.10764em;&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3448em;&#34;&gt;&lt;span style=&#34;top:-2.5198em;margin-left:-0.1076em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mpunct mtight&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mord mtight&#34;&gt;0/1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3552em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 表示 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;x&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.4306em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 子树内所有的边都被看守到，且 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;x&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.4306em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 不放 或者 放 士兵的最少士兵数。&lt;/p&gt;
@@ -337,9 +337,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
         <updated>2022-05-09T10:33:44.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/CF1111E%20Tree%20%E9%A2%98%E8%A7%A3/</id>
+        <id>https://xixike.github.io/CF1111E%20Tree%20%E9%A2%98%E8%A7%A3/</id>
         <title>CF1111E Tree 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/CF1111E%20Tree%20%E9%A2%98%E8%A7%A3/"/>
+        <link rel="alternate" href="https://xixike.github.io/CF1111E%20Tree%20%E9%A2%98%E8%A7%A3/"/>
         <content type="html">&lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vQ0YxMTExRQ==&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h2&gt;
@@ -360,9 +360,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
         <updated>2022-04-28T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/AT1983%20[AGC001E]%20BBQ%20Hard/</id>
+        <id>https://xixike.github.io/AT1983%20[AGC001E]%20BBQ%20Hard/</id>
         <title>AT1983 [AGC001E] BBQ Hard 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/AT1983%20[AGC001E]%20BBQ%20Hard/"/>
+        <link rel="alternate" href="https://xixike.github.io/AT1983%20[AGC001E]%20BBQ%20Hard/"/>
         <content type="html">&lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vQVQxOTgz&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h2&gt;
@@ -384,9 +384,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
         <updated>2022-03-16T05:58:38.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/P6047%20%E4%B8%9D%E4%B9%8B%E5%89%B2/</id>
+        <id>https://xixike.github.io/P6047%20%E4%B8%9D%E4%B9%8B%E5%89%B2/</id>
         <title>P6047 丝之割 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/P6047%20%E4%B8%9D%E4%B9%8B%E5%89%B2/"/>
+        <link rel="alternate" href="https://xixike.github.io/P6047%20%E4%B8%9D%E4%B9%8B%E5%89%B2/"/>
         <content type="html">&lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDYwNDc=&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h2&gt;
@@ -410,9 +410,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
         <updated>2022-03-06T04:39:36.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/SP33017%20ADAMOLD%20-%20Ada%20and%20Mold%20%E9%A2%98%E8%A7%A3/</id>
+        <id>https://xixike.github.io/SP33017%20ADAMOLD%20-%20Ada%20and%20Mold%20%E9%A2%98%E8%A7%A3/</id>
         <title>SP33017 ADAMOLD - Ada and Mold 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/SP33017%20ADAMOLD%20-%20Ada%20and%20Mold%20%E9%A2%98%E8%A7%A3/"/>
+        <link rel="alternate" href="https://xixike.github.io/SP33017%20ADAMOLD%20-%20Ada%20and%20Mold%20%E9%A2%98%E8%A7%A3/"/>
         <content type="html">&lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vU1AzMzAxNw==&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92anVkZ2UubmV0L3Byb2JsZW0vU1BPSi1BREFNT0xE&#34;&gt;vjudge传送门&lt;/span&gt;&lt;/p&gt;
@@ -458,9 +458,9 @@ db_{i, j, k} = db_{i - 1, j, k} + db_{i - 1, f_{i - 1, j, k}, k}
         <updated>2022-03-01T14:47:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/CF17E%20Palisection%20%E9%A2%98%E8%A7%A3/</id>
+        <id>https://xixike.github.io/CF17E%20Palisection%20%E9%A2%98%E8%A7%A3/</id>
         <title>CF17E Palisection 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/CF17E%20Palisection%20%E9%A2%98%E8%A7%A3/"/>
+        <link rel="alternate" href="https://xixike.github.io/CF17E%20Palisection%20%E9%A2%98%E8%A7%A3/"/>
         <content type="html">&lt;h1 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vQ0YxN0U=&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
@@ -504,9 +504,9 @@ i - 1\ \ \ \ \sim\ \ \ \ i\ \ \ \ \sim\ \ \ \ i + 1
         <updated>2022-02-28T15:23:38.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/P2167%20[SDOI2009]Bill%E7%9A%84%E6%8C%91%E6%88%98/</id>
+        <id>https://xixike.github.io/P2167%20[SDOI2009]Bill%E7%9A%84%E6%8C%91%E6%88%98/</id>
         <title>P2167 [SDOI2009]Bill的挑战</title>
-        <link rel="alternate" href="http://xixike.github.io/P2167%20[SDOI2009]Bill%E7%9A%84%E6%8C%91%E6%88%98/"/>
+        <link rel="alternate" href="https://xixike.github.io/P2167%20[SDOI2009]Bill%E7%9A%84%E6%8C%91%E6%88%98/"/>
         <content type="html">&lt;h1 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDIxNjc=&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h1&gt;

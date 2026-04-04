@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://xixike.github.io</id>
+    <id>https://xixike.github.io</id>
     <title>xixike • Posts by &#34;主席树&#34; tag</title>
-    <link href="http://xixike.github.io" />
+    <link href="https://xixike.github.io" />
     <updated>2022-07-23T16:00:00.000Z</updated>
     <category term="dp" />
     <category term="矩阵乘法" />
@@ -43,9 +43,9 @@
     <category term="后缀自动机(SAM)" />
     <category term="基础" />
     <entry>
-        <id>http://xixike.github.io/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%82%B9%E9%97%AE%E9%A2%98/</id>
+        <id>https://xixike.github.io/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%82%B9%E9%97%AE%E9%A2%98/</id>
         <title>二维数点问题</title>
-        <link rel="alternate" href="http://xixike.github.io/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%82%B9%E9%97%AE%E9%A2%98/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%82%B9%E9%97%AE%E9%A2%98/"/>
         <content type="html">&lt;h2 id=&#34;二维数点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二维数点&#34;&gt;#&lt;/a&gt; 二维数点&lt;/h2&gt;
 &lt;p&gt;顾名思义，就是在一个二维平面内数一个矩形内有多少个点。&lt;/p&gt;
 &lt;p&gt;例题：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDIxNjM=&#34;&gt;P2163 [SHOI2007]园丁的烦恼&lt;/span&gt;&lt;/p&gt;

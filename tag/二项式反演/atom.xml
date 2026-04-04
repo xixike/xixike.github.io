@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://xixike.github.io</id>
+    <id>https://xixike.github.io</id>
     <title>xixike • Posts by &#34;二项式反演&#34; tag</title>
-    <link href="http://xixike.github.io" />
+    <link href="https://xixike.github.io" />
     <updated>2022-04-04T15:00:00.000Z</updated>
     <category term="dp" />
     <category term="矩阵乘法" />
@@ -43,9 +43,9 @@
     <category term="后缀自动机(SAM)" />
     <category term="基础" />
     <entry>
-        <id>http://xixike.github.io/P6076%20[JSOI2015]%E6%9F%93%E8%89%B2%E9%97%AE%E9%A2%98/</id>
+        <id>https://xixike.github.io/P6076%20[JSOI2015]%E6%9F%93%E8%89%B2%E9%97%AE%E9%A2%98/</id>
         <title>P6076 [JSOI2015]染色问题 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/P6076%20[JSOI2015]%E6%9F%93%E8%89%B2%E9%97%AE%E9%A2%98/"/>
+        <link rel="alternate" href="https://xixike.github.io/P6076%20[JSOI2015]%E6%9F%93%E8%89%B2%E9%97%AE%E9%A2%98/"/>
         <content type="html">&lt;h2 id=&#34;descirption&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#descirption&#34;&gt;#&lt;/a&gt; Descirption&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDYwNzY=&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h2&gt;

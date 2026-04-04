@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://xixike.github.io</id>
+    <id>https://xixike.github.io</id>
     <title>xixike • Posts by &#34;数据结构&#34; tag</title>
-    <link href="http://xixike.github.io" />
+    <link href="https://xixike.github.io" />
     <updated>2022-06-22T09:00:00.000Z</updated>
     <category term="dp" />
     <category term="矩阵乘法" />
@@ -43,9 +43,9 @@
     <category term="后缀自动机(SAM)" />
     <category term="基础" />
     <entry>
-        <id>http://xixike.github.io/P2584%20[ZJOI2006]GameZ%E6%B8%B8%E6%88%8F%E6%8E%92%E5%90%8D%E7%B3%BB%E7%BB%9F/</id>
+        <id>https://xixike.github.io/P2584%20[ZJOI2006]GameZ%E6%B8%B8%E6%88%8F%E6%8E%92%E5%90%8D%E7%B3%BB%E7%BB%9F/</id>
         <title>P2584 [ZJOI2006]GameZ游戏排名系统 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/P2584%20[ZJOI2006]GameZ%E6%B8%B8%E6%88%8F%E6%8E%92%E5%90%8D%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="https://xixike.github.io/P2584%20[ZJOI2006]GameZ%E6%B8%B8%E6%88%8F%E6%8E%92%E5%90%8D%E7%B3%BB%E7%BB%9F/"/>
         <content type="html">&lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDI1ODQ=&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h2&gt;
@@ -68,9 +68,9 @@
         <updated>2022-06-22T09:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8Ffhq-treap/</id>
+        <id>https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8Ffhq-treap/</id>
         <title>『学习笔记』fhq-treap</title>
-        <link rel="alternate" href="http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8Ffhq-treap/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8Ffhq-treap/"/>
         <content type="html">&lt;h1 id=&#34;浅谈-fhq-treap无旋treap&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#浅谈-fhq-treap无旋treap&#34;&gt;#&lt;/a&gt; 浅谈 fhq-treap（无旋treap）&lt;/h1&gt;
 &lt;p&gt;模板题：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDYxMzY=&#34;&gt;洛谷 P6136 【模板】普通平衡树（数据加强版）&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;（emm刚写了这个，就放这个吧）&lt;/p&gt;
@@ -182,9 +182,9 @@
         <updated>2022-06-22T09:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FSplay/</id>
+        <id>https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FSplay/</id>
         <title>『学习笔记』Splay</title>
-        <link rel="alternate" href="http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FSplay/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FSplay/"/>
         <content type="html">&lt;p&gt;不打算详细写了，强推一波 yyb 神仙的博客 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vY2p5eWIvcC83NDk5MDIwLmh0bWw=&#34;&gt;Splay入门解析【保证让你看不懂（滑稽）】&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;（这篇博客的代码完全是按照 yyb 的博客写的，并有一些补充，包括 &lt;code&gt;pushup&lt;/code&gt; 及查询第 k 大的整数等等）&lt;/p&gt;
 &lt;p&gt;这里列几个注意事项吧：&lt;/p&gt;
@@ -221,9 +221,9 @@
         <updated>2022-05-31T14:58:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8F%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91%EF%BC%88%E4%B8%BB%E5%B8%AD%E6%A0%91%EF%BC%89/</id>
+        <id>https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8F%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91%EF%BC%88%E4%B8%BB%E5%B8%AD%E6%A0%91%EF%BC%89/</id>
         <title>『学习笔记』可持久化线段树（主席树）</title>
-        <link rel="alternate" href="http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8F%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91%EF%BC%88%E4%B8%BB%E5%B8%AD%E6%A0%91%EF%BC%89/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8F%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91%EF%BC%88%E4%B8%BB%E5%B8%AD%E6%A0%91%EF%BC%89/"/>
         <content type="html">&lt;p&gt;主席树的最基础的操作就是查询历史版本区间第 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;k&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03148em;&#34;&gt;k&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 大，带修。&lt;/p&gt;
 &lt;p&gt;这个问题的基础解决思路：对于每次修改都建一棵权值线段树，显然空间开不下。&lt;/p&gt;
 &lt;p&gt;这时可持久化线段树的思路就应运而生了。&lt;/p&gt;
@@ -243,9 +243,9 @@
         <updated>2022-05-31T14:57:36.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8F%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%A0%91/</id>
+        <id>https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8F%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%A0%91/</id>
         <title>『学习笔记』笛卡尔树</title>
-        <link rel="alternate" href="http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8F%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%A0%91/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8F%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%A0%91/"/>
         <content type="html">&lt;p&gt;模板题：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDU4NTQ=&#34;&gt;P5854 【模板】笛卡尔树&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#定义&#34;&gt;#&lt;/a&gt; 定义&lt;/h2&gt;
 &lt;p&gt;无相同元素的数列构造出的笛卡尔树具有下列性质：&lt;/p&gt;

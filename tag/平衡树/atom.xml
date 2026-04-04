@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://xixike.github.io</id>
+    <id>https://xixike.github.io</id>
     <title>xixike • Posts by &#34;平衡树&#34; tag</title>
-    <link href="http://xixike.github.io" />
+    <link href="https://xixike.github.io" />
     <updated>2025-01-25T06:15:35.249Z</updated>
     <category term="dp" />
     <category term="矩阵乘法" />
@@ -43,9 +43,9 @@
     <category term="后缀自动机(SAM)" />
     <category term="基础" />
     <entry>
-        <id>http://xixike.github.io/%E5%B9%B3%E8%A1%A1%E6%A0%91%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/</id>
+        <id>https://xixike.github.io/%E5%B9%B3%E8%A1%A1%E6%A0%91%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/</id>
         <title>【平衡树启发式合并】P4178 Tree</title>
-        <link rel="alternate" href="http://xixike.github.io/%E5%B9%B3%E8%A1%A1%E6%A0%91%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E5%B9%B3%E8%A1%A1%E6%A0%91%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/"/>
         <content type="html">&lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDQxNzg=&#34;&gt;P4178 Tree&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h2&gt;
@@ -66,9 +66,9 @@
         <updated>2025-01-25T06:15:35.249Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/P2584%20[ZJOI2006]GameZ%E6%B8%B8%E6%88%8F%E6%8E%92%E5%90%8D%E7%B3%BB%E7%BB%9F/</id>
+        <id>https://xixike.github.io/P2584%20[ZJOI2006]GameZ%E6%B8%B8%E6%88%8F%E6%8E%92%E5%90%8D%E7%B3%BB%E7%BB%9F/</id>
         <title>P2584 [ZJOI2006]GameZ游戏排名系统 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/P2584%20[ZJOI2006]GameZ%E6%B8%B8%E6%88%8F%E6%8E%92%E5%90%8D%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="https://xixike.github.io/P2584%20[ZJOI2006]GameZ%E6%B8%B8%E6%88%8F%E6%8E%92%E5%90%8D%E7%B3%BB%E7%BB%9F/"/>
         <content type="html">&lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDI1ODQ=&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h2&gt;
@@ -91,9 +91,9 @@
         <updated>2022-06-22T09:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8Ffhq-treap/</id>
+        <id>https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8Ffhq-treap/</id>
         <title>『学习笔记』fhq-treap</title>
-        <link rel="alternate" href="http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8Ffhq-treap/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8Ffhq-treap/"/>
         <content type="html">&lt;h1 id=&#34;浅谈-fhq-treap无旋treap&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#浅谈-fhq-treap无旋treap&#34;&gt;#&lt;/a&gt; 浅谈 fhq-treap（无旋treap）&lt;/h1&gt;
 &lt;p&gt;模板题：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDYxMzY=&#34;&gt;洛谷 P6136 【模板】普通平衡树（数据加强版）&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;（emm刚写了这个，就放这个吧）&lt;/p&gt;
@@ -205,9 +205,9 @@
         <updated>2022-06-22T09:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FSplay/</id>
+        <id>https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FSplay/</id>
         <title>『学习笔记』Splay</title>
-        <link rel="alternate" href="http://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FSplay/"/>
+        <link rel="alternate" href="https://xixike.github.io/%E3%80%8E%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8FSplay/"/>
         <content type="html">&lt;p&gt;不打算详细写了，强推一波 yyb 神仙的博客 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vY2p5eWIvcC83NDk5MDIwLmh0bWw=&#34;&gt;Splay入门解析【保证让你看不懂（滑稽）】&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;（这篇博客的代码完全是按照 yyb 的博客写的，并有一些补充，包括 &lt;code&gt;pushup&lt;/code&gt; 及查询第 k 大的整数等等）&lt;/p&gt;
 &lt;p&gt;这里列几个注意事项吧：&lt;/p&gt;
@@ -244,9 +244,9 @@
         <updated>2022-05-31T14:58:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://xixike.github.io/P3103%20[USACO14FEB]Airplane%20Boarding%20G/</id>
+        <id>https://xixike.github.io/P3103%20[USACO14FEB]Airplane%20Boarding%20G/</id>
         <title>P3103 [USACO14FEB]Airplane Boarding G 题解</title>
-        <link rel="alternate" href="http://xixike.github.io/P3103%20[USACO14FEB]Airplane%20Boarding%20G/"/>
+        <link rel="alternate" href="https://xixike.github.io/P3103%20[USACO14FEB]Airplane%20Boarding%20G/"/>
         <content type="html">&lt;h2 id=&#34;description&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#description&#34;&gt;#&lt;/a&gt; Description&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDMxMDM=&#34;&gt;Luogu传送门&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;solution&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#solution&#34;&gt;#&lt;/a&gt; Solution&lt;/h2&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>xixike • Posts by &#34;虚树&#34; tag</title>
-        <link>http://xixike.github.io</link>
+        <link>https://xixike.github.io</link>
         <description>或许是不知梦的缘故，流离之人追逐幻影。</description>
         <language>zh-CN</language>
         <pubDate>Fri, 29 Apr 2022 00:00:00 +0800</pubDate>
@@ -46,9 +46,9 @@
         <category>后缀自动机(SAM)</category>
         <category>基础</category>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/CF178F3%20Representative%20Sampling/</guid>
+            <guid isPermalink="true">https://xixike.github.io/CF178F3%20Representative%20Sampling/</guid>
             <title>CF178F3 Representative Sampling 题解</title>
-            <link>http://xixike.github.io/CF178F3%20Representative%20Sampling/</link>
+            <link>https://xixike.github.io/CF178F3%20Representative%20Sampling/</link>
             <category>trie树</category>
             <category>树形dp</category>
             <category>虚树</category>

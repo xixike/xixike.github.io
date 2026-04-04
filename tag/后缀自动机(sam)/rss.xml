@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>xixike • Posts by &#34;后缀自动机(sam)&#34; tag</title>
-        <link>http://xixike.github.io</link>
+        <link>https://xixike.github.io</link>
         <description>或许是不知梦的缘故，流离之人追逐幻影。</description>
         <language>zh-CN</language>
         <pubDate>Tue, 31 May 2022 22:58:30 +0800</pubDate>
@@ -46,9 +46,9 @@
         <category>后缀自动机(SAM)</category>
         <category>基础</category>
         <item>
-            <guid isPermalink="true">http://xixike.github.io/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84(SA)%20&amp;%20%E5%90%8E%E7%BC%80%E8%87%AA%E5%8A%A8%E6%9C%BA(SAM)/</guid>
+            <guid isPermalink="true">https://xixike.github.io/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84(SA)%20&amp;%20%E5%90%8E%E7%BC%80%E8%87%AA%E5%8A%A8%E6%9C%BA(SAM)/</guid>
             <title>后缀数组（SA） &amp; 后缀自动机（SAM）</title>
-            <link>http://xixike.github.io/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84(SA)%20&amp;%20%E5%90%8E%E7%BC%80%E8%87%AA%E5%8A%A8%E6%9C%BA(SAM)/</link>
+            <link>https://xixike.github.io/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84(SA)%20&amp;%20%E5%90%8E%E7%BC%80%E8%87%AA%E5%8A%A8%E6%9C%BA(SAM)/</link>
             <category>字符串</category>
             <category>后缀数组(SA)</category>
             <category>后缀自动机(SAM)</category>
