@@ -7,31 +7,31 @@
     <category term="dp" />
     <category term="矩阵乘法" />
     <category term="构造" />
-    <category term="树链剖分" />
-    <category term="树状数组" />
-    <category term="字符串" />
-    <category term="manacher" />
     <category term="trie树" />
     <category term="树形dp" />
     <category term="虚树" />
-    <category term="网络流" />
+    <category term="字符串" />
+    <category term="manacher" />
+    <category term="树链剖分" />
+    <category term="树状数组" />
     <category term="数学" />
+    <category term="网络流" />
     <category term="最短路" />
+    <category term="状压dp" />
     <category term="后缀数组(SA)" />
     <category term="并查集" />
+    <category term="hash" />
     <category term="数据结构" />
     <category term="平衡树" />
-    <category term="hash" />
-    <category term="状压dp" />
-    <category term="区间dp" />
-    <category term="模拟" />
     <category term="多项式" />
+    <category term="模拟" />
     <category term="Kruskal重构树" />
     <category term="斜率优化" />
-    <category term="二项式反演" />
+    <category term="区间dp" />
     <category term="Floyd" />
     <category term="传递闭包" />
     <category term="四边形不等式" />
+    <category term="二项式反演" />
     <category term="状压" />
     <category term="分治" />
     <category term="CDQ分治" />
@@ -40,8 +40,8 @@
     <category term="线段树" />
     <category term="笛卡尔树" />
     <category term="主席树" />
-    <category term="基础" />
     <category term="后缀自动机(SAM)" />
+    <category term="基础" />
     <entry>
         <id>http://xixike.github.io/P8186%20[USACO22FEB]%20Redistributing%20Gifts%20S/</id>
         <title>USACO 2022.2 Silver A</title>
